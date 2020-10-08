@@ -1,0 +1,202 @@
+h1
+{
+    text-align:center
+}
+
+#leftcolumn1
+{
+    width:106px;
+    background-color:greenyellow;
+    float:left;
+}
+
+#rightcolumn1
+{
+    max-width:1174px;
+    background-color:cyan;
+    padding:0.1px;
+    margin-left:106px;
+}
+
+#leftcolumn2
+{
+    width:213px;
+    background-color:gold;
+    float:left;
+}
+
+#rightcolumn2
+{
+    max-width:1067px;
+    background-color:lightskyblue;
+    padding:0.1px;
+    margin-left:213px;
+}
+
+#leftcolumn3
+{
+    width:320px;
+    background-color:greenyellow;
+    float:left;
+}
+
+#rightcolumn3
+{
+    max-width:960px;
+    background-color:cyan;
+    padding:0.1px;
+    margin-left:320px;
+}
+
+#leftcolumn4
+{
+    width:426px;
+    background-color:gold;
+    float:left;
+}
+
+#rightcolumn4
+{
+    max-width:854px;
+    background-color:lightskyblue;
+    padding:0.1px;
+    margin-left:426px;
+}
+
+#leftcolumn5
+{
+    width:530px;
+    background-color:greenyellow;
+    float:left;
+}
+
+#rightcolumn5
+{
+    max-width:750px;
+    background-color:cyan;
+    padding:0.1px;
+    margin-left:530px;
+}
+
+#leftcolumn6
+{
+    width:640px;
+    background-color:gold;
+    float:left;
+}
+
+#rightcolumn6
+{
+    max-width:640px;
+    background-color:lightskyblue;
+    padding:0.1px;
+    margin-left:640px;
+}
+
+#a
+{
+    width:426px;
+    background-color:orange;
+    float:left;
+}
+
+#b
+{
+    width:428px;
+    background-color:red;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#c
+{
+    max-width:426px;
+    background-color:yellow;
+    padding:0.1px;
+    margin-left:854px;
+}
+
+#d
+{
+    width:320px;
+    background-color:cyan;
+    float:left;
+}
+
+#e
+{
+    width:320px;
+    background-color:greenyellow;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#f
+{
+    width:320px;
+    background-color:gold;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#g
+{
+    width:320px;
+    background-color:greenyellow;
+    padding:0.1px;
+    margin-left:960px;
+}
+
+#h
+{
+    width:213px;
+    background-color:blueviolet;
+    float:left;
+}
+
+#i
+{
+    width:213px;
+    background-color:hotpink;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#j
+{
+    width:213px;
+    background-color:lightsalmon;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#k
+{
+    width:213px;
+    background-color:lightgreen;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#l
+{
+    width:213px;
+    background-color:lightcoral;
+    padding:0.1px;
+    margin-left;
+    float:left;
+}
+
+#m
+{
+    width:215px;
+    background-color:lightpink;
+    padding:0.1px;
+    margin-left:1065px;
+}
